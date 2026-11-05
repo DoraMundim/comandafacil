@@ -1,31 +1,31 @@
-# 🍽️ Comanda Fácil
+🍽️ Comanda Fácil
 
 Sistema web de gestão de comandas
 para bares e restaurantes.
 
-## Sobre o projeto
+Sobre o projeto
 
 O Comanda Fácil é uma aplicação desenvolvida
 para facilitar o gerenciamento de mesas,
 pedidos, produtos, comandas e pagamentos.
 
-## Tecnologias
+Tecnologias
 
-### Front-end
+Front-end
 - React
 - TypeScript
 - Vite
 
-### Back-end
+Back-end
 - Node.js
 - NestJS
 - TypeScript
 
-### Banco de dados
+Banco de dados
 - PostgreSQL
 - Prisma ORM
 
-## Funcionalidades previstas
+Funcionalidades previstas
 
 - Autenticação de usuários.
 - Cadastro de funcionários.
@@ -37,14 +37,19 @@ pedidos, produtos, comandas e pagamentos.
 - Fechamento de comandas.
 - Controle de pagamentos.
 
-## Documentação
+Documentação
 
 Consulte a pasta /docs.
 
-## Desenvolvedora
+Desenvolvedora
 
 Dora Alice Borges Mundim
 
-## Status
+Status
 
 Em desenvolvimento.
+
+ 🍽️ Comanda Fácil
+
+Sistema web de gestão de comandas
+para bares e restaurantes.
