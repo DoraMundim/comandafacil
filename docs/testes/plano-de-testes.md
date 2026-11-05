@@ -1,6 +1,6 @@
-# Plano de Testes
+Plano de Testes
 
-## Testes iniciais
+Testes iniciais
 
 - Validar login.
 - Validar cadastro de produtos.
@@ -11,7 +11,7 @@
 - Impedir fechamento com pagamento inválido.
 - Validar liberação da mesa após fechamento.
 
-## Tipos de testes
+Tipos de testes
 
 - Testes unitários.
 - Testes de integração.

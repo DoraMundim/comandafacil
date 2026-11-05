@@ -1,6 +1,6 @@
-# Arquitetura do Sistema
+Arquitetura do Sistema
 
-## Front-end
+ Front-end
 React + TypeScript + Vite.
 
 Responsabilidades:
@@ -9,7 +9,7 @@ Responsabilidades:
 - Navegação.
 - Consumo da API.
 
-## Back-end
+ Back-end
 Node.js + NestJS.
 
 Responsabilidades:
@@ -19,15 +19,15 @@ Responsabilidades:
 - Processamento de pedidos.
 - Comunicação com banco de dados.
 
-## Banco de dados
+ Banco de dados
 PostgreSQL.
 
-## ORM
+ ORM
 Prisma.
 
-## Comunicação
+Comunicação
 API REST utilizando JSON e HTTP.
 
-## Versionamento
+ Versionamento
 Git e GitHub.
-```
+

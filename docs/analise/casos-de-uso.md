@@ -1,4 +1,4 @@
-## UC001 - Realizar Login
+ UC001 - Realizar Login
 
 Ator: Funcionário.
 
@@ -9,7 +9,7 @@ Fluxo:
 4. O sistema permite o acesso conforme
    o perfil do funcionário.
 
-## UC002 - Cadastrar Produto
+UC002 - Cadastrar Produto
 
 Ator: Administrador ou gerente.
 
@@ -20,7 +20,7 @@ Fluxo:
 4. Salvar o cadastro.
 5. O sistema confirma a operação.
 
-## UC003 - Abrir Comanda
+UC003 - Abrir Comanda
 
 Ator: Garçom.
 
@@ -31,7 +31,7 @@ Fluxo:
 4. O sistema registra a operação.
 5. A mesa passa para ocupada.
 
-## UC004 - Fechar Comanda
+UC004 - Fechar Comanda
 
 Ator: Caixa.
 
@@ -42,4 +42,3 @@ Fluxo:
 4. Confirmar fechamento.
 5. O sistema registra o pagamento
    e libera a mesa.
-```

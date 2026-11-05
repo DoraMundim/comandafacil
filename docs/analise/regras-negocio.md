@@ -1,4 +1,4 @@
-# Regras de Negócio
+Regras de Negócio
 
 - RN001: Uma mesa não poderá possuir
   duas comandas abertas simultaneamente.
@@ -29,4 +29,3 @@
 
 - RN010: O fechamento deverá utilizar
   transação no banco de dados.
-```

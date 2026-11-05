@@ -1,6 +1,6 @@
-# Modelagem Inicial do Banco
+Modelagem Inicial do Banco
 
-## Tabelas previstas
+Tabelas previstas
 
 - users
 - roles
@@ -13,7 +13,7 @@
 - payments
 - audit_logs
 
-## Observações
+Observações
 
 A modelagem física será desenvolvida
 posteriormente com PostgreSQL e Prisma.
@@ -21,4 +21,3 @@ posteriormente com PostgreSQL e Prisma.
 Os relacionamentos, chaves estrangeiras,
 restrições e índices serão documentados
 antes da implementação definitiva.
-```

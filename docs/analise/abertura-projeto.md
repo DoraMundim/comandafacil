@@ -1,22 +1,22 @@
-## Nome
+Nome
 Comanda Fácil
 
-## Objetivo
+Objetivo
 Desenvolver um sistema web para gerenciamento
 de comandas em bares e restaurantes.
 
-## Público-alvo
+Público-alvo
 Bares e restaurantes.
 
-## Plataformas
+Plataformas
 Computadores, tablets e celulares.
 
-## Objetivo do MVP
+Objetivo do MVP
 Permitir o gerenciamento de usuários,
 produtos, categorias, mesas, comandas,
 pedidos e pagamentos.
 
-## Tecnologias
+Tecnologias
 - React
 - TypeScript
 - Node.js
@@ -25,10 +25,9 @@ pedidos e pagamentos.
 - Prisma ORM
 - Git e GitHub
 
-## Responsável pelo desenvolvimento
+Responsável pelo desenvolvimento
 Dora Alice Borges Mundim
 
-## Metodologia
+Metodologia
 Desenvolvimento incremental, com entregas
 pequenas e versionamento utilizando Git.
-```
